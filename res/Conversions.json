@@ -1,0 +1,55 @@
+{
+  "Fel Iron Bar": {
+    "Fel Iron Ore": 2
+  },
+  "Hardened Adamantite Bar": {
+    "Adamantite Bar": 10
+  },
+  "Adamantite Bar": {
+    "Adamantite Ore": 2
+  },
+  "Khorium Bar": {
+    "Khorium Ore": 2
+  },
+  "Felsteel Bar": {
+    "Fel Iron Bar": 3,
+    "Eternium Bar": 2
+  },
+  "Eternium Bar": {
+    "Eternium Ore": 2
+  },
+  "Primal Earth": {
+    "Mote of Earth": 10
+  },
+  "Primal Fire": {
+    "Mote of Fire": 10
+  },
+  "Primal Water": {
+    "Mote of Water": 10
+  },
+  "Primal Life": {
+    "Mote of Life": 10
+  },
+  "Primal Air": {
+    "Mote of Air": 10
+  },
+  "Primal Shadow": {
+    "Mote of Shadow": 10
+  },
+  "Primal Mana": {
+    "Mote of Mana": 10
+  },
+  "Gold Bar": {
+    "Gold Ore": 1
+  },
+  "Arcanite Bar": {
+    "Arcane Crystal": 1,
+    "Thorium Bar": 1
+  },
+  "Thorium Bar": {
+    "Thorium Ore": 1
+  },
+  "Bolt of Netherweave": {
+    "Netherweave Cloth": 6
+  }
+}

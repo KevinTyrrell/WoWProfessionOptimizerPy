@@ -1,0 +1,519 @@
+{
+  "Gold Power Core": {
+    "skills": [150, 150, 190],
+    "supply": 3,
+    "reagents": {
+      "Gold Bar": 1
+    }
+  },
+  "Delicate Arcanite Converter": {
+    "skills": [285,305,325],
+    "supply": 1,
+    "reagents": {
+      "Arcanite Bar": 1,
+      "Ironweb Spider Silk": 1
+    }
+  },
+  "Handful of Fel Iron Bolts": {
+    "skills": [300, 300, 310],
+    "supply": 1,
+    "reagents": {
+      "Fel Iron Bar": 1
+    }
+  },
+  "Fel Iron Casing": {
+    "skills": [300, 300, 320],
+    "supply": 1,
+    "reagents": {
+      "Fel Iron Bar": 3
+    }
+  },
+  "Elemental Blasting Powder": {
+    "skills": [300, 300, 320],
+    "supply": 4,
+    "reagents": {
+      "Mote of Fire": 1,
+      "Mote of Earth": 2
+    }
+  },
+  "Fel Iron Bomb": {
+    "skills": [300, 320, 340],
+    "supply": 4,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 2,
+      "Elemental Blasting Powder": 1
+    }
+  },
+  "Zapthrottle Mote Extractor": {
+    "skills": [305, 305, 325],
+    "supply": 1,
+    "reagents": {
+      "Fel Iron Casing": 2,
+      "Handful of Fel Iron Bolts": 2,
+      "Primal Life": 4,
+      "Delicate Arcanite Converter": 1
+    }
+  },
+  "Fel Iron Shells": {
+    "skills": [310, 310, 330],
+    "supply": 200,
+    "reagents": {
+      "Fel Iron Bar": 2,
+      "Elemental Blasting Powder": 1
+    }
+  },
+  "Fel Iron Musket": {
+    "skills": [320, 330, 350],
+    "supply": 1,
+    "reagents": {
+      "Heavy Stock": 1,
+      "Fel Iron Casing": 3,
+      "Handful of Fel Iron Bolts": 6
+    }
+  },
+  "Adamantite Frame": {
+    "skills": [325, 325, 335],
+    "supply": 1,
+    "reagents": {
+      "Adamantite Bar": 4,
+      "Primal Earth": 1
+    }
+  },
+  "The Bigger One": {
+    "skills": [325, 325, 345],
+    "supply": 3,
+    "reagents": {
+      "Fel Iron Casing": 3,
+      "Elemental Blasting Powder": 6,
+      "Arcane Powder": 3,
+      "Handful of Fel Iron Bolts": 2
+    },
+    "specialization": "Goblin"
+  },
+  "Fel Iron Toolbox": {
+    "skills": [325, 325, 345],
+    "supply": 1,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Fel Iron Bar": 5,
+      "Handful of Fel Iron Bolts": 2
+    }
+  },
+  "Gnomish Flame Turret": {
+    "skills": [325, 335, 355],
+    "supply": 3,
+    "reagents": {
+      "Adamantite Frame": 1,
+      "Handful of Fel Iron Bolts": 2,
+      "Elemental Blasting Powder": 3,
+      "Fel Iron Casing": 1
+    },
+    "specialization": "Gnomish"
+  },
+  "Crashin' Thrashin' Robot": {
+    "skills": [325, 335, 355],
+    "supply": 1,
+    "reagents": {
+      "Adamantite Frame": 1,
+      "Fel Iron Casing": 2,
+      "Gold Power Core": 1,
+      "Handful of Fel Iron Bolts": 2
+    }
+  },
+  "Adamantite Grenade": {
+    "skills": [325, 335, 355],
+    "supply": 3,
+    "reagents": {
+      "Adamantite Bar": 4,
+      "Handful of Fel Iron Bolts": 2,
+      "Elemental Blasting Powder": 1
+    }
+  },
+  "Healing Potion Injector": {
+    "skills": [330, 330, 350],
+    "supply": 20,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 1,
+      "Knothide Leather": 2,
+      "Super Healing Potion": 20
+    }
+  },
+  "Icy Blasting Primers": {
+    "skills": [335, 335, 345],
+    "supply": 10,
+    "reagents": {
+      "Primal Water": 1,
+      "Elemental Blasting Powder": 2,
+      "Netherweave Cloth": 2
+    }
+  },
+  "Adamantite Arrow Maker": {
+    "skills": [335, 335, 355],
+    "supply": 1,
+    "reagents": {
+      "Adamantite Bar": 1,
+      "Simple Wood": 4,
+      "Handful of Fel Iron Bolts": 2
+    }
+  },
+  "Purple Smoke Flare": {
+    "skills": [335, 335, 355],
+    "supply": 3,
+    "reagents": {
+      "Elemental Blasting Powder": 1,
+      "Netherweave Cloth": 1,
+      "Purple Dye": 1
+    }
+  },
+  "Adamantite Shell Machine": {
+    "skills": [335, 335, 355],
+    "supply": 1,
+    "reagents": {
+      "Adamantite Bar": 1,
+      "Elemental Blasting Powder": 2,
+      "Simple Wood": 4
+    }
+  },
+  "Green Smoke Flare": {
+    "skills": [335, 335, 355],
+    "supply": 3,
+    "reagents": {
+      "Elemental Blasting Powder": 1,
+      "Netherweave Cloth": 1,
+      "Green Dye": 1
+    }
+  },
+  "White Smoke Flare": {
+    "skills": [335, 335, 355],
+    "supply": 3,
+    "reagents": {
+      "Elemental Blasting Powder": 1,
+      "Netherweave Cloth": 1
+    }
+  },
+  "Frost Grenades": {
+    "skills": [335, 345, 365],
+    "supply": 5,
+    "reagents": {
+      "Icy Blasting Primers": 1,
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 1
+    }
+  },
+  "Adamantite Scope": {
+    "skills": [335, 345, 365],
+    "supply": 1,
+    "reagents": {
+      "Adamantite Bar": 8,
+      "Golden Draenite": 2
+    }
+  },
+  "Super Sapper Charge": {
+    "skills": [340, 340, 360],
+    "supply": 2,
+    "reagents": {
+      "Netherweave Cloth": 4,
+      "Elemental Blasting Powder": 4,
+      "Primal Mana": 1
+    },
+    "specialization": "Goblin"
+  },
+  "Power Amplification Goggles": {
+    "skills": [340, 350, 370],
+    "supply": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 4,
+      "Flame Spessarite": 2,
+      "Arcane Dust": 8
+    }
+  },
+  "Cogspinner Goggles": {
+    "skills": [340, 350, 370],
+    "supply": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 4,
+      "Blood Garnet": 2,
+      "Arcane Dust": 8
+    }
+  },
+  "Felsteel Stabilizer": {
+    "skills": [340, 350, 370],
+    "supply": 1,
+    "reagents": {
+      "Felsteel Bar": 2
+    }
+  },
+  "Khorium Power Core": {
+    "skills": [340, 350, 370],
+    "supply": 1,
+    "reagents": {
+      "Khorium Bar": 3,
+      "Primal Fire": 1
+    }
+  },
+  "Hardened Adamantite Tube": {
+    "skills": [340, 350, 370],
+    "supply": 1,
+    "reagents": {
+      "Hardened Adamantite Bar": 3
+    }
+  },
+  "Gnomish Poultryizer": {
+    "skills": [340, 360, 380],
+    "supply": 1,
+    "reagents": {
+      "Hardened Adamantite Tube": 2,
+      "Khorium Power Core": 2,
+      "Arcane Dust": 10,
+      "Large Prismatic Shard": 2
+    }
+  },
+  "Mana Potion Injector": {
+    "skills": [345, 345, 365],
+    "supply": 20,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 1,
+      "Knothide Leather": 2,
+      "Super Mana Potion": 20
+    }
+  },
+  "Ultrasafe Transporter - Toshley's Station": {
+    "skills": [350, 350, 370],
+    "supply": 1,
+    "reagents": {
+      "Adamantite Frame": 1,
+      "Primal Air": 2,
+      "Felsteel Stabilizer": 2,
+      "Handful of Fel Iron Bolts": 4,
+      "Khorium Power Core": 1
+    },
+    "specialization": "Gnomish"
+  },
+  "Dimensional Ripper - Area 52": {
+    "skills": [350, 350, 370],
+    "supply": 1,
+    "reagents": {
+      "Adamantite Frame": 1,
+      "Primal Fire": 2,
+      "The Bigger One": 2,
+      "Handful of Fel Iron Bolts": 4,
+      "Khorium Power Core": 1
+    },
+    "specialization": "Goblin"
+  },
+  "Elemental Seaforium Charge": {
+    "skills": [350, 350, 360],
+    "supply": 2,
+    "reagents": {
+      "Elemental Blasting Powder": 2,
+      "Fel Iron Casing": 1,
+      "Handful of Fel Iron Bolts": 1
+    }
+  },
+  "Night-Invulnerability Belt": {
+    "skills": [350, 360, 380],
+    "supply": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 8,
+      "Khorium Power Core": 4,
+      "Primal Life": 10,
+      "Primal Shadow": 10,
+      "Delicate Arcanite Converter": 2
+    }
+  },
+  "Goblin Rocket Launcher": {
+    "skills": [350, 360, 380],
+    "supply": 1,
+    "reagents": {
+      "Hardened Adamantite Tube": 1,
+      "Khorium Power Core": 1,
+      "Felsteel Stabilizer": 2,
+      "Primal Fire": 6,
+      "Primal Earth": 6,
+      "Delicate Arcanite Converter": 2
+    },
+    "specialization": "Goblin"
+  },
+  "Khorium Toolbox": {
+    "skills": [350, 360, 380],
+    "supply": 1,
+    "reagents": {
+      "Fel Iron Casing": 1,
+      "Khorium Bar": 5,
+      "Handful of Fel Iron Bolts": 2
+    }
+  },
+  "Ultra-Spectropic Detection Goggles": {
+    "skills": [350, 360, 380],
+    "supply": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 4,
+      "Khorium Bar": 2,
+      "Deep Peridot": 2,
+      "Small Prismatic Shard": 2
+    }
+  },
+  "Adamantite Rifle": {
+    "skills": [350, 360, 380],
+    "supply": 1,
+    "reagents": {
+      "Fel Iron Casing": 3,
+      "Adamantite Frame": 2,
+      "Handful of Fel Iron Bolts": 4
+    }
+  },
+  "Flying Machine": {
+    "skills": [350, 375, 385],
+    "supply": 1,
+    "reagents": {
+      "Adamantite Frame": 2,
+      "Fel Iron Bar": 30,
+      "Handful of Fel Iron Bolts": 8,
+      "Star Wood": 8,
+      "Adamantite Bar": 5,
+      "Elemental Seaforium Charge": 4
+    }
+  },
+  "Rocket Boots Xtreme Lite": {
+    "skills": [355, 365, 385],
+    "supply": 1,
+    "reagents": {
+      "Bolt of Netherweave": 8,
+      "Khorium Power Core": 2,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4
+    }
+  },
+  "Rocket Boots Xtreme": {
+    "skills": [355, 365, 385],
+    "supply": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 8,
+      "Khorium Power Core": 2,
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 4
+    }
+  },
+  "Field Repair Bot 110G": {
+    "skills": [360, 370, 390],
+    "supply": 5,
+    "reagents": {
+      "Adamantite Bar": 8,
+      "Handful of Fel Iron Bolts": 8,
+      "Khorium Power Core": 1
+    }
+  },
+  "Khorium Scope": {
+    "skills": [360, 370, 390],
+    "supply": 1,
+    "reagents": {
+      "Hardened Adamantite Tube": 1,
+      "Khorium Bar": 4,
+      "Dawnstone": 2
+    }
+  },
+  "Hyper-Vision Goggles": {
+    "skills": [360, 370, 390],
+    "supply": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 4,
+      "Khorium Bar": 2,
+      "Nightseye": 2,
+      "Large Prismatic Shard": 2
+    }
+  },
+  "Felsteel Boomstick": {
+    "skills": [360, 370, 390],
+    "supply": 1,
+    "reagents": {
+      "Hardened Adamantite Tube": 1,
+      "Felsteel Stabilizer": 4,
+      "Handful of Fel Iron Bolts": 4
+    }
+  },
+  "Gnomish Power Goggles": {
+    "skills": [375, 375, 395],
+    "supply": 1,
+    "reagents": {
+      "Spellcloth": 4,
+      "Primal Fire": 8,
+      "Primal Air": 8,
+      "Primal Earth": 8,
+      "Primal Water": 8,
+      "Talasite": 2
+    },
+    "specialization": "Gnomish"
+  },
+  "Gnomish Battle Goggles": {
+    "skills": [375, 375, 395],
+    "supply": 1,
+    "reagents": {
+      "Heavy Knothide Leather": 8,
+      "Primal Shadow": 12,
+      "Primal Earth": 12,
+      "Primal Fire": 12,
+      "Living Ruby": 2
+    }
+  },
+  "Foreman's Reinforced Helmet": {
+    "skills": [375, 375, 395],
+    "supply": 1,
+    "reagents": {
+      "Hardened Adamantite Bar": 8,
+      "Primal Earth": 12,
+      "Primal Fire": 12
+    }
+  },
+  "Foreman's Enchanted Helmet": {
+    "skills": [375, 375, 395],
+    "supply": 1,
+    "reagents": {
+      "Shadowcloth": 4,
+      "Primal Mana": 12,
+      "Primal Air": 12
+    }
+  },
+  "Gyro-balanced Khorium Destroyer": {
+    "skills": [375, 375, 410],
+    "supply": 1,
+    "reagents": {
+      "Hardened Adamantite Tube": 1,
+      "Khorium Bar": 20,
+      "Felsteel Stabilizer": 4,
+      "Primal Fire": 12,
+      "Primal Air": 12
+    }
+  },
+  "Turbo-Charged Flying Machine": {
+    "skills": [375, 385, 395],
+    "supply": 1,
+    "reagents": {
+      "Flying Machine": 1,
+      "Khorium Power Core": 8,
+      "Felsteel Stabilizer": 8,
+      "Hula Girl Doll": 1
+    }
+  },
+  "Stabilized Eternium Scope": {
+    "skills": [375, 385, 405],
+    "supply": 1,
+    "reagents": {
+      "Hardened Adamantite Tube": 2,
+      "Felsteel Stabilizer": 6,
+      "Star of Elune": 2
+    }
+  },
+  "Ornate Khorium Rifle": {
+    "skills": [375, 385, 405],
+    "supply": 1,
+    "reagents": {
+      "Hardened Adamantite Tube": 2,
+      "Khorium Bar": 12,
+      "Handful of Fel Iron Bolts": 4,
+      "Noble Topaz": 2
+    }
+  }
+}
